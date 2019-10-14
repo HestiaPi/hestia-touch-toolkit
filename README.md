@@ -2,6 +2,7 @@
 Files for optional tools we have used to make manufacturing and testing easier
 
 # Demo
+[![Soldering guide video](https://img.youtube.com/vi/gRcRINqT31g/0.jpg)](https://www.youtube.com/watch?v=gRcRINqT31g)
 https://www.youtube.com/watch?v=gRcRINqT31g
 
 # Soldering jig
