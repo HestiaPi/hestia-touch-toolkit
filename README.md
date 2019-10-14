@@ -2,7 +2,7 @@
 Files for optional tools we have used to make manufacturing and testing easier
 
 # Demo
-https://studio.youtube.com/video/gRcRINqT31g/edit
+https://www.youtube.com/watch?v=gRcRINqT31g
 
 # Soldering jig
 3D design that holds all components in place from the bottom side of the PCB for hands-free soldering.
